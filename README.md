@@ -22,13 +22,6 @@ Olá, me chamo **Giancarlo**, mas pode me chamar de **Gian** estudante de Análi
 ---
 
 
-## 🌟 Por que Eu?
-
-- 🧠 **Resolução de Problemas**: Abordo desafios com uma mentalidade lógica e analítica, transformando problemas complexos em soluções práticas.  
-- 🤝 **Trabalho em Equipe**: Trago uma atitude positiva e colaborativa para todos os projetos.  
-- 🎯 **Foco em Impacto**: Sou motivado a criar sistemas backend que impulsionem aplicações centradas no usuário.
-
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
